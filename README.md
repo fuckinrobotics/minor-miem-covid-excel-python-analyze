@@ -27,6 +27,7 @@ trajectory and compare it with real data.
 ## Docs
 Excel with covid data of Finland and some analysis.
 Python file to generate random chain of numbers for 5 task of homework.
+PDF file with report of homework.
 
 ## Developer
 [Alisher Yuldashov](https://github.com/fuckinrobotics)
